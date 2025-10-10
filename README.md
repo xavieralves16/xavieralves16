@@ -4,7 +4,7 @@ Currently learning **Full-Stack Development** (CS50 and CS50W)
 
 ---
 
-## 🔧 Technologies & Tools
+##Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -23,5 +23,5 @@ Currently learning **Full-Stack Development** (CS50 and CS50W)
 
 ---
 
-## 🎟️ Holopin Badges
+## Holopin Badges
 [![@xavieralves16's Holopin board](https://holopin.me/xavieralves16)](https://holopin.io/@xavieralves16)
