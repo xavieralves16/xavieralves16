@@ -1,5 +1,5 @@
 
-MSC in Electrical and Computer Engineering graduate @ FEUP  
+MSC in Electrical and Computer Engineering graduate @FEUP  
 Currently learning **Full-Stack Development** (CS50 and CS50W)
 
 ---
@@ -19,7 +19,10 @@ Currently learning **Full-Stack Development** (CS50 and CS50W)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
+---
 
+![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavieralves16&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavieralves16&layout=compact&theme=tokyonight)
 
 ---
 
