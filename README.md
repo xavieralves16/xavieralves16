@@ -19,10 +19,5 @@ Currently learning **Full-Stack Development** (CS50 and CS50W)
 
 ---
 
-![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavieralves16&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavieralves16&layout=compact&theme=tokyonight)
-
----
-
 ## Holopin Badges
 [![@xavieralves16's Holopin board](https://holopin.me/xavieralves16)](https://holopin.io/@xavieralves16)
